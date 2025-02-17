@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace NotificationServiceDemo.src
 {
-    internal interface INotificationService
+    public interface INotificationService
     {
+        void SendNotification(string message, string recipient);
     }
 }
