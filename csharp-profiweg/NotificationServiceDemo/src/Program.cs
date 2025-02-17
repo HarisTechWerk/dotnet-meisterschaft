@@ -8,7 +8,11 @@ namespace NotificationServiceDemo.src
         {
             INotificationService emailService = new EmailNotificationService();
 
+
             emailService.SendNotification("Welcome to our Service!", "user@email.com");
+
+            INotificationService smsService = new SMSNotificationService();
+            smsService.SendNotification("Welcome to our Service!", "+49123456789");
         }
     }
 }
