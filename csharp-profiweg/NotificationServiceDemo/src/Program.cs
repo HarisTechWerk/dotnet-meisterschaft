@@ -13,6 +13,9 @@ namespace NotificationServiceDemo.src
 
             INotificationService smsService = new SMSNotificationService();
             smsService.SendNotification("Welcome to our Service!", "+49123456789");
+
+            INotificationService pushService = new PushNotificationService();
+            pushService.SendNotification("Welcome to our Service", "user_device_token");
         }
     }
 }
