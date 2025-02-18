@@ -1,4 +1,15 @@
-💡 Mastering .NET Full Stack Development – From Junior to Expert  
-🔹 A structured journey covering **real-world projects, best practices, and modern .NET development**  
-🔹 **ASP.NET Core, C#, React, Blazor, Entity Framework, Testing, Microservices, DevOps & more**  
-🔹 Designed for **professional growth** and to meet **industry standards in the German tech market**
+# 📝 Text Transformer Demo
+
+🚀 This project demonstrates a flexible text transformation system using **C# Interfaces & Strategy Pattern**.
+
+## 📌 Features
+✅ Supports multiple transformation strategies (uppercase, reverse, etc.)  
+✅ Uses **Dependency Injection (DI)** for flexibility  
+✅ Clean, maintainable, and testable **SOLID code**
+
+## 🏗 Tech Stack
+- **.NET 9**
+- **C#**
+- **xUnit & Moq** (for Unit Testing)
+- **Strategy Pattern** (for dynamic transformations)
+
