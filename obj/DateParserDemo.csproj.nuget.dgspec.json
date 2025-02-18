@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj": {}
+    "C:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj": {
+    "C:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj",
+        "projectUniqueName": "C:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj",
         "projectName": "DateParserDemo",
-        "projectPath": "c:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj",
+        "projectPath": "C:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\DateParserDemo.csproj",
         "packagesPath": "C:\\Users\\Haris\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\obj\\",
+        "outputPath": "C:\\Projects\\dotnet-meisterschaft\\csharp-profiweg\\section-1-csharp-fundamentals\\DateParserDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
